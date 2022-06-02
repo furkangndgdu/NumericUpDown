@@ -1,0 +1,11 @@
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\bin\Debug\form-NumericUpDown.exe.config
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\bin\Debug\form-NumericUpDown.exe
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\bin\Debug\form-NumericUpDown.pdb
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\obj\Debug\form-NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\obj\Debug\form-NumericUpDown.csproj.SuggestedBindingRedirects.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\obj\Debug\form_NumericUpDown.Form1.resources
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\obj\Debug\form_NumericUpDown.Properties.Resources.resources
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\obj\Debug\form-NumericUpDown.csproj.GenerateResource.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\obj\Debug\form-NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\obj\Debug\form-NumericUpDown.exe
+C:\Users\gundo\OneDrive\Masaüstü\form-NumericUpDown\form-NumericUpDown\obj\Debug\form-NumericUpDown.pdb
